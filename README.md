@@ -1,4 +1,4 @@
-![logo](https://github.com/Omkar-Hundre/Omkar-Hundre/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)https://github.com/Omkar-Hundre/Omkar-Hundre/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
+![logo](https://github.com/Omkar-Hundre/Omkar-Hundre/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Omkar Hundre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
