@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence | AndroidDevelopment**
 
-- 👨‍💻 All of my projects are available at [[https://www.linkedin.com/in/hundreomkar/](https://github.com/Omkar-Hundre]([https://www.linkedin.com/in/hundreomkar/](https://github.com/Omkar-Hundre/)
+- 👨‍💻 All of my projects are available at [(https://github.com/Omkar-Hundre](https://github.com/Omkar-Hundre/)
 
 - 📫 How to reach me **hundreomkar7@gmail.com**
 
