@@ -1,16 +1,16 @@
 ![logo](https://github.com/Omkar-Hundre/Omkar-Hundre/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Omkar Hundre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Python And Front-end Developer From India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-hundre&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-hundre" /> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **My Own AI**
 
-- 🌱 I’m currently learning **Web Development | JavaScript | React.JS | DataBase**
+- 🌱 I’m currently learning **Artificial Intelligence | AndroidDevelopment**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hundreomkar/](https://www.linkedin.com/in/hundreomkar/)
+- 👨‍💻 All of my projects are available at [[https://www.linkedin.com/in/hundreomkar/](https://github.com/Omkar-Hundre]([https://www.linkedin.com/in/hundreomkar/](https://github.com/Omkar-Hundre/)
 
 - 📫 How to reach me **hundreomkar7@gmail.com**
 
