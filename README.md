@@ -156,7 +156,7 @@ Modern link management platform with analytics, QR generation and custom brandin
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://omkarhundre.netlify.app">
+<a href="https://omkarhundre.in/">
 <img src="https://skillicons.dev/icons?i=devto"/>
 </a>
 
